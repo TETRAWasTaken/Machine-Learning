@@ -15,3 +15,5 @@ A repository with the python code for Different Supervised Machine Learning Algo
 
 * [Principle Component Analysis One](Unsupervised-Learning/PCA.ipynb)
 * [Principle Component Analysis Two](Unsupervised-Learning/PCA_2.ipynb)
+* [Distances](Unsupervised-Learning/Distances.ipynb)
+* [Jaccard Distances](Unsupervised-Learning/Jaccard_Distance.py)
